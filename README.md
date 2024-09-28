@@ -1,6 +1,6 @@
 # USI Economics Repository - BECOE
 
-Welcome to the USI Economics Repository! This repository is maintained by Quintavalle Pietro for students of the Università della Svizzera italiana (USI). It serves as a platform for consulting, sharing, and contributing notes and materials for the Bachelor of Arts in Economics program.
+Welcome to the USI Economics Repository! This repository is maintained by me for students of the Università della Svizzera italiana (USI). It serves as a platform for consulting, sharing, and contributing notes and materials for the Bachelor of Arts in Economics program.
 
 ## Repository Structure
 
