@@ -27,8 +27,13 @@ Double-entry bookkeeping is a fundamental accounting system that provides a comp
    - Preparing financial statements
 
 6. **Financial Statements**: The end product of the accounting process, including the balance sheet, income statement, and cash flow statement.
+7. **Journal**: Is a record that contains all the financial transactions of an individual, business, or organization for a specific period.
+8. **Ledger**: Is a record that contains all the financial transactions of an individual, business, or organization over a specific period.
 
 This system ensures accuracy in financial reporting by requiring that the total debits always equal the total credits, providing a reliable method for tracking an organization's financial position and performance.
+
+![[PrinciplesOfAccounting_03_Theory.pdf#page=2]]
+The Accounting System needs to do the following: identify, classify and summarize business transactions
 
 ## Definitions and Important Concepts
 
@@ -51,13 +56,14 @@ Key elements:
 
 This system allows for efficient daily recording of transactions and quick preparation of financial statements at year-end.
 ## Revised Definitions and Concepts
+![[TheAccount.png]]
 - **Account**: A detailed record of changes in a particular asset, liability, equity, cost, or revenue. 
 - **Debit**: The left side of an account, used for increases in assets and expenses, and decreases in liabilities and equity. 
 - **Credit**: The right side of an account, used for increases in liabilities and equity, and decreases in assets. 
 - **Balance**: The difference between the total debits and credits in an account.
 ## Key Accounting Principles
 The class of an account regulates how increases and decreases are recorded as debit or credit. For any account, increases are recorded on one side and decreases on the other. The rules of recording debits and credits is based on the accounting equation 
-$$\text{assets} = \text{liabilities} + \text{equity including result so} + \text{revenues} - \text{costs} $$
+$$\text{Assets} = \text{Liabilities} + \text{Equity including result so} + \text{Revenues} - \text{Costs} $$
 and considering that assets increase on credit and decrease on debit. As a summary:
 ![[Double-entry bookkeeping.png]]
 Balance sheet accounts are “permanent” as they show the value at at a given date and start with an opening balance which is equal to the ending balance of the previous period (assets in debit, liabilities & equity in credit).
@@ -84,10 +90,10 @@ graph TD
 3. Record the closing operations to comply with acc. norms
 	→ What accounts? How much Increase/decrease? In debit/credit?
 4. Prepare the income statement by transferring the balances of costs and revenues accounts to the income statement
-	→ income statement ¦ costs, revenues ¦ income statement
+	→ income statement | costs, revenues | income statement
 5. Prepare of the [[Balance Sheet and Income Statements]] by transferring the balances of assets, liabilities, equity and net income to balance sheet
-	→ balance sheet ¦ assets, liabilities & equity ¦ balance sheet
-	→ income statement ¦ balance sheet (if income, viceversa if loss)
+	→ balance sheet | assets, liabilities & equity | balance sheet
+	→ income statement | balance sheet (if income, viceversa if loss)
 ## Formulas and Calculations
 - Asset accounts: Debit to increase, Credit to decrease
 - Liability and Equity accounts: Credit to increase, Debit to decrease
