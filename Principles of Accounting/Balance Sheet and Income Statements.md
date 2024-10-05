@@ -61,12 +61,6 @@ The more liquid an asset is, the easier and more efficient it is to turn it back
 - Income Statement: Shows financial performance over a period.
 - Both statements are interconnected: Net income from the Income Statement affects Retained Earnings on the Balance Sheet.
 
-## Questions for Review
-
-1. How does the concept of equilibrium apply to a company's financial and economic aspects?
-2. Explain the relationship between assets, liabilities, and equity in the context of the balance sheet.
-3. How does depreciation affect both the balance sheet and income statement?
-
 ## References
 
 - Lecture notes, Date: Financial Statements Overview

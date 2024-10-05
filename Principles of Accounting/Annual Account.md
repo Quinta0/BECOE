@@ -164,12 +164,6 @@ Interpretation: For every dollar of equity, the company has $0.67 of debt. This 
 2) **Income Statement**: Revenues, expenses, and resulting profits or losses are reported on the income statement. This affects the retained earnings component of equity on the balance sheet.
 3) **Cash Flow Statement**: While not explicitly mentioned in the provided materials, the cash flow statement is impacted by changes in working capital, capital expenditures, and financing activities.
 4) **Statement of Changes in Equity**: This statement, which shows the changes in a company's equity over time, is affected by net income/loss, dividends, and any direct changes to equity accounts.
-## Questions for Review
-- How does the principle of prudence affect the valuation of assets and liabilities on a balance sheet?
-- Explain the difference between current assets and capital assets, providing examples of each.
-- Why is working capital important, and what does a negative working capital indicate about a company's financial health?
-- How does the debt-to-equity ratio help in assessing a company's financial risk?
-- Walk through the process of calculating annual profit/loss, starting from gross profit.
 
 ## References
 - [Textbook Title](Citation.md)
